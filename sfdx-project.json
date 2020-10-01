@@ -9,4 +9,3 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "46.0"
 }
-export SFDX_IMPROVED_CODE_COVERAGE=true
